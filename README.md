@@ -13,4 +13,13 @@ node index.js download https://mediateca.unipi.it/category/calcolo-delle-probabi
 
 The videos will be downloaded inside: `/home/$USER/Videos/` directory.
 
+###### Credentials Instruction
+The `credentials.json` file has to be like this:
+```
+{
+    "username": "m.rossi",
+    "password": "secret_duper_password"
+}
+```
+
 made by @gabryon99
