@@ -1,0 +1,17 @@
+{
+  "name": "mediateca-downloader",
+  "version": "1.0.0",
+  "description": "a script download the entire subject from mediateca",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "gabryon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "puppeteer": "^2.1.1",
+    "yargs": "^15.1.0"
+  }
+}
